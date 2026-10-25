@@ -1,1 +1,11 @@
-<Solution />
+<Solution>
+  <Folder Name="/Host/">
+    <Project Path="Host/PmdSolver.Cli/PmdSolver.Cli.csproj" />
+  </Folder>
+  <Folder Name="/Source/">
+    <Project Path="Source/PmdSolver.Domain/PmdSolver.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="Tests/PmdSolver.Domain.Tests/PmdSolver.Domain.Tests.csproj" />
+  </Folder>
+</Solution>
